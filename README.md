@@ -1,59 +1,38 @@
-# ExpertTech
+# The Tales of Babylon
 
-**An engineering-focused Minecraft expert modpack for Minecraft 1.21.1 (NeoForge).**
+**An expansive Minecraft 1.21.1 (NeoForge) expert modpack built around technology, magic, and exploration.**
 
-> **Status: In development.** ExpertTech is not yet a finished, publicly downloadable modpack. There is no stable release or installation package at this time.
+> **Status: In development.** There is no public release, stable download, or installation package yet.
 
-ExpertTech takes inspiration from **Enigmatica 2: Expert**, **Divine Journey 2**, and **Dungeons, Dragons and Space Shuttles**, combining broad technology choices with connected progression, machinery, logistics, and meaningful automation.
+The Tales of Babylon aims to become a large, long-form expert modpack inspired by **Enigmatica 2: Expert**, **Divine Journey 2**, and **Dungeons, Dragons and Space Shuttles**. Its goal is an interconnected journey where engineering, magic, and exploration are all substantial parts of progression, rather than one being a small side activity.
 
-## Design philosophy
+## Design vision
 
-- **Engineering over grinding.** The challenge should come from designing, integrating, and automating production systems—not from repetitive manual resource collection.
-- **Multiple useful solutions.** Energy generation, item and fluid transport, processing, storage, and automation should support alternative approaches throughout progression.
-- **Machines unlock by capability and tier.** A mod may contribute early machinery, mid-game improvements, and advanced upgrades rather than unlocking all at once.
-- **Create is an option, not the entire early game.** Create-powered workshops are part of the journey, but the pack is designed around multiple technology systems.
-- **Optional pursuits stay optional.** MineColonies and exploration-focused content are not mandatory for the main technology progression.
-- **Late-game balance matters.** Advanced systems such as ProjectE/EMC are intended for later progression, without trivializing earlier engineering challenges.
+- **Technology and magic as equal foundations.** Both should have depth, distinctive mechanics, and meaningful connections across progression.
+- **Exploration with a purpose.** Discoveries, structures, dimensions, and other adventures should matter to the wider experience.
+- **Interconnected expert progression.** Recipes, production chains, and unlocks should reward understanding and combining different systems.
+- **Choices without shortcuts.** Where practical, multiple technologies or approaches should offer useful alternatives, while preserving a coherent overall challenge.
+- **Engineering over repetitive grinding.** The interesting work should be designing and improving resource processing, logistics, energy systems, and automation.
+- **An extensive quest book.** Quests are intended to explain progression, teach systems, and guide a very large adventure without replacing the underlying gameplay.
 
-## Technology landscape
+## Development status
 
-The current development selection spans **Create, Immersive Engineering, Mekanism, Ender IO, Actually Additions, Industrial Foregoing, RFTools, Oritech**, and many supporting machines and logistics systems. **Applied Energistics 2** and **Refined Storage** are intended to offer complementary, competitive digital-storage paths. Magic and other production systems can progress alongside industrial technologies.
+The modpack is being designed from a **clean slate**. Earlier experiments, mod selections, recipes, and progression plans serve as reference material; they are **not a finalized architecture**.
 
-Some desired systems—such as parts of the **Thermal** family—still require compatible ports or testing. This is a **design overview, not a verified installation list**; confirmed availability will be documented in future public releases.
+The target is **Minecraft 1.21.1 with NeoForge**. Mod availability, compatibility, progression chapters, recipe changes, and quest structure are subject to research, implementation, and testing. Any specific mod or feature discussed during development should not be treated as confirmed for a public release.
 
-## Planned progression
+The intended scope is ambitious, and the pack will only be presented as playable when its content and dependencies have been verified. This repository is currently a public information and issue-reporting hub, not a downloadable distribution.
 
-The current design uses ten technology ages:
+## Releases and installation
 
-| Age | Name | General theme |
-| ---: | --- | --- |
-| 0 | Early Days | Short survival introduction and basic resources |
-| 1 | Labor Age | Hand-powered workshops, basic processing, and early materials |
-| 2 | Mechanical Age | Water and wind power, mechanical manufacturing, metallurgy, and limited electricity |
-| 3 | Electrical Age | Foundational electrical machinery and entry-level power networks |
-| 4 | Industrial Age | Scaled manufacturing, chemistry, and larger production systems |
-| 5 | Automation Age | Advanced logistics, controllers, and increasingly automated factories |
-| 6 | Digital Age | Digital storage networks and autocrafting |
-| 7 | Nuclear Age | Reactor technology and high-energy production |
-| 8 | Space Age | Space engineering and advanced infrastructure |
-| 9 | Quantum Age | Endgame materials, extreme crafting, and high-tier systems |
+**No public download is available yet.** When release builds are ready, verified mod information, installation instructions, version history, and changelogs will be published here.
 
-The age names and order are established design goals. **Individual recipes, unlock requirements, and machine placements are still subject to development and testing.**
+## Bug reports and contributions
 
-## Project status
+The [public issue tracker](../../issues/new/choose) is intended for reproducible problems affecting **published builds**. Please include the exact pack version, reproduction steps, and relevant logs. Development-only investigations and internal planning are managed separately.
 
-ExpertTech is currently focused on assembling compatible mods and planning integrated expert progression. Compatibility, machine capabilities, and balance are evaluated before features are announced as playable.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for reporting guidance. Contributions and feature-request procedures will be documented as development progresses.
 
-The final pack is intended to include an integrated quest book. Public release assets, a curated mod list, setup instructions, and a changelog will be published here **when ready**.
+## Credits and permissions
 
-## Bugs and compatibility reports
-
-If you encounter a reproducible problem with a **published ExpertTech build**, please [open a bug report](../../issues/new/choose). Include the exact pack version, a clear reproduction procedure, and relevant logs.
-
-This public issue tracker is for player-facing defects and confirmed compatibility reports. Experimental investigations, internal planning, and development notes are managed separately.
-
-## Availability and usage
-
-No public download is available yet. Do not assume that the existence of a mod in the planned progression implies a compatible, tested release.
-
-Minecraft and individual mods belong to their respective creators. Any future distribution will need to follow the applicable licenses and permissions.
+Minecraft and third-party mods belong to their respective creators. Any future distribution will need to respect applicable licenses and permissions.

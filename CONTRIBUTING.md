@@ -1,13 +1,13 @@
 # Reporting Issues and Contributing
 
-ExpertTech is under active development, and **there is not yet a public release**.
+The Tales of Babylon is under active development, and **there is not yet a public release**.
 
 ## Bug reports
 
-Once a public build is available, please use the [bug report form](https://github.com/Stamparas/ExpertTech/issues/new/choose) for reproducible problems affecting that build.
+Once a public build is available, please use the [bug report form](https://github.com/Stamparas/TheTalesOfBabylon/issues/new/choose) for reproducible problems affecting that build.
 
 A useful report includes:
-- the exact published ExpertTech version and Minecraft/NeoForge version;
+- the exact published The Tales of Babylon version and Minecraft/NeoForge version;
 - concise reproduction steps and expected versus actual behavior;
 - relevant error messages, crash reports or screenshots;
 - whether the issue occurs in a clean, unmodified copy of the same release.
