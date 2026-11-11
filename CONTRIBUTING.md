@@ -4,7 +4,7 @@ The Tales of Babylon is under active development, and **there is not yet a publi
 
 ## Bug reports
 
-Once a public build is available, please use the [bug report form](https://github.com/Stamparas/The Tales of Babylon/issues/new/choose) for reproducible problems affecting that build.
+Once a public build is available, please use the [bug report form](https://github.com/Stamparas/TheTalesOfBabylon/issues/new/choose) for reproducible problems affecting that build.
 
 A useful report includes:
 - the exact published The Tales of Babylon version and Minecraft/NeoForge version;
