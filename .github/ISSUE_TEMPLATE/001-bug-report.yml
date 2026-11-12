@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thank you for reporting an issue. This tracker covers **published The Tales of Babylon builds only**. Please avoid sharing passwords, private file paths, tokens, or personal information in logs.
+        Thank you for reporting an issue. This form covers **published The Tales of Babylon builds only**; for errors in this repository's documentation, use the documentation problem form instead. Please avoid sharing passwords, private file paths, tokens, or personal information in logs.
   - type: input
     id: pack_version
     attributes:

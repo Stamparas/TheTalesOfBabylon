@@ -1,0 +1,40 @@
+name: Documentation problem
+description: Report an error, broken link, or unclear statement in this repository's documentation.
+title: "[Docs]: "
+labels: ["documentation"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form for problems in this repository's documentation, such as the README, MODLIST.md, CHANGELOG.md or CONTRIBUTING.md. For problems in a published The Tales of Babylon build, use the bug report form instead.
+
+        The modlist is a **development inventory** and changes during development. A mod being added, updated or removed is not a documentation error.
+  - type: input
+    id: location
+    attributes:
+      label: Where is the problem?
+      description: The file and section, or a link to the line on GitHub.
+      placeholder: "e.g. README.md, Development status"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is wrong or unclear?
+      description: Quote the text if helpful and explain the problem.
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested correction
+      description: Optional. If a statement is inaccurate, please mention the source of the correct information.
+    validations:
+      required: false
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Confirmation
+      options:
+        - label: I checked for an existing report of the same problem.
+          required: true
