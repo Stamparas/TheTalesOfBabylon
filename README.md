@@ -4,12 +4,15 @@
 
 **An expansive Minecraft 1.21.1 (NeoForge) expert modpack built around technology, magic, and exploration.**
 
-![Minecraft 1.21.1](https://img.shields.io/badge/Minecraft-1.21.1-62B47A)
-![NeoForge](https://img.shields.io/badge/Mod%20loader-NeoForge-E68A35)
-![Status: in development](https://img.shields.io/badge/Status-In%20development-D9A400)
-![Public release: none yet](https://img.shields.io/badge/Public%20release-None%20yet-8A8A8A)
+By Stamparas — see the [Credits](docs/CREDITS.md).
 
-[About](#about) · [Design pillars](#design-pillars) · [Development status](#development-status) · [Modlist](#modlist) · [Releases](#releases-and-installation) · [Changelog](#changelog) · [Support](#support-and-bug-reports) · [Credits](#credits-and-permissions)
+[![Minecraft 1.21.1](https://img.shields.io/badge/Minecraft-1.21.1-62B47A)](#development-status)
+[![NeoForge](https://img.shields.io/badge/Mod%20loader-NeoForge-E68A35)](#development-status)
+[![Status: in development](https://img.shields.io/badge/Status-In%20development-D9A400)](#development-status)
+[![Public release: none yet](https://img.shields.io/badge/Public%20release-None%20yet-8A8A8A)](#download)
+[![Open issues](https://img.shields.io/github/issues/Stamparas/TheTalesOfBabylon?label=Open%20issues)](https://github.com/Stamparas/TheTalesOfBabylon/issues)
+
+[About](#about) · [Design pillars](#design-pillars) · [Development status](#development-status) · [Download](#download) · [Modlist](#modlist) · [Preview images](#preview-images) · [Changelog](#changelog) · [Support](#support-and-bug-reports) · [Credits](#credits-and-permissions)
 
 </div>
 
@@ -51,13 +54,17 @@ Development is proceeding from the early game. The first custom recipe work, an 
 
 The intended scope is ambitious, and the pack will only be presented as playable when its content and dependencies have been verified. This repository is currently a public information and issue-reporting hub, not a downloadable distribution.
 
+## Download
+
+**No public download is available yet.** When release builds are ready, they will be published on this repository's [GitHub Releases](https://github.com/Stamparas/TheTalesOfBabylon/releases) page, together with verified mod information, installation instructions, and version history. Modpack releases are not stored in the repository itself.
+
 ## Modlist
 
 [**MODLIST.md**](MODLIST.md) lists the mods in the current development inventory with their exact versions. It is a working list, not a release modlist: mods can be added, updated, or removed at any time during development.
 
-## Releases and installation
+## Preview images
 
-**No public download is available yet.** When release builds are ready, verified mod information, installation instructions, and version history will be published here and on the repository's releases page.
+No preview images have been published yet. Screenshots will be added to the [preview gallery](docs/PREVIEW_IMAGES.md) once there is gameplay worth showing that reflects the pack's actual state.
 
 ## Changelog
 
@@ -65,7 +72,7 @@ The intended scope is ambitious, and the pack will only be presented as playable
 
 ## Support and bug reports
 
-The [public issue tracker](../../issues/new/choose) is intended for reproducible problems affecting **published builds**, and for errors in this repository's documentation. Please include the exact pack version, reproduction steps, and relevant logs. Development-only investigations and internal planning are managed separately.
+The [public issue tracker](https://github.com/Stamparas/TheTalesOfBabylon/issues/new/choose) is intended for reproducible problems affecting **published builds**, and for errors in this repository's documentation. Please include the exact pack version, reproduction steps, and relevant logs. Development-only investigations and internal planning are managed separately.
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for reporting guidance. Contributions and feature-request procedures will be documented as development progresses.
 
@@ -74,3 +81,16 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for reporting guidance. Contributions and
 Minecraft and third-party mods belong to their respective creators. Any future distribution will need to respect applicable licenses and permissions. Licensing for the pack's own files will be documented before the first public release.
 
 See [docs/CREDITS.md](docs/CREDITS.md) for credits and acknowledgements.
+
+## Repository structure
+
+| Path | Contents |
+| --- | --- |
+| [`MODLIST.md`](MODLIST.md) | Development modlist |
+| [`CHANGELOG.md`](CHANGELOG.md) | Completed and verified changes |
+| [`CONTRIBUTING.md`](CONTRIBUTING.md) | Issue reporting and contribution guidance |
+| [`docs/`](docs/CREDITS.md) | [Credits](docs/CREDITS.md) and the [preview gallery](docs/PREVIEW_IMAGES.md) |
+| [`assets/images/`](assets/images/README.md) | Logos, banners, and other project graphics (none yet) |
+| [`assets/screenshots/`](assets/screenshots/README.md) | Gameplay screenshots for the preview gallery (none yet) |
+| [`downloads/`](downloads/README.md) | Reserved for supplementary downloadable resources; modpack releases use GitHub Releases |
+| [`.github/`](.github/ISSUE_TEMPLATE) | Issue forms |
