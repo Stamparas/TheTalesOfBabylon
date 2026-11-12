@@ -1,1 +1,5 @@
 blank_issues_enabled: false
+contact_links:
+  - name: Development status and release information
+    url: https://github.com/Stamparas/TheTalesOfBabylon#development-status
+    about: There is no public release yet. Check the current status before reporting.
